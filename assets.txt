@@ -1,0 +1,14 @@
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/ae07f.png problem-1.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/17672.png problem-2.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/6b75d.png problem-3.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/92ada.png mom.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/0478c.png step-1.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/7b822.png step-2.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/46b4a.png step-3.jpg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/abed2.svg logo.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/4689c.svg arrow.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/1f33c.svg doodle-1.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/ddc9b.svg doodle-2.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/0842d.svg logo-footer.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/28dc9.svg icon-1.svg
+https://www.figma.com/api/mcp/asset/0f3e9e42-27b5-430d-86f8-737406281048/faea6.svg icon-2.svg
